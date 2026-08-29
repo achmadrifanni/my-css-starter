@@ -2,4 +2,8 @@
   --color-primary: #0433ab; /warna biru tiki
   --color-primary-light: #ebf4ff;
   --color-secondary: #d90000;
+
+  --color-placeholder: #94a3b8;
+  --border-input: 1px solid #e2e8f0;
+  
 }
