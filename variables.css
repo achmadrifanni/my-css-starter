@@ -1,3 +1,5 @@
---color-primary: #0433ab; /warna tiki
---color-primary-light: #ebf4ff;
---color-secondary: #d90000;
+:root {
+  --color-primary: #0433ab; /warna biru tiki
+  --color-primary-light: #ebf4ff;
+  --color-secondary: #d90000;
+}
